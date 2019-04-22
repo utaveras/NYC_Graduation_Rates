@@ -134,7 +134,7 @@ To spot check my results, I used the model to predict District 1's Total Graduat
 As a result, the model predicted a Graduation Rate of 78.94% versus an Actual Graduation Rate of 74.13%:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/43836014/56537342-48746780-652e-11e9-959e-afa4a5086e46.png" title="Actual Result">
+  <img src="https://user-images.githubusercontent.com/43836014/56538045-06e4bc00-6530-11e9-8bb0-54b824822839.png" title="Actual Result">
 </p>
 
 Thus in this case, the model was able to predict the Graduation Rate to within 5% from the actual value. 
