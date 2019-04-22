@@ -1,6 +1,4 @@
-# Mod2_Project2
-# NYC Graduation Rates: 
-## Are 3rd - 8th Grade Math Scores predictive?
+# NYC Graduation Rates: Are 3rd - 8th Grade Math Scores predictive?
 
 ## Project Overview
 
