@@ -121,4 +121,20 @@ As a result, I decided to move forward with the second model since it had a high
 * pct_level_3_and_4_by_gender- had the highest positive impact
 * pct_level_4_by_ethnicity had the second highest positive impact 
 
-In conclusion, my model showed Math Score features were the strongest predictors of Graduation Outcomes. For example, a 1 unit percentage increase in pct_level_3_by_gender would increase total_grads_pct_of_cohort by ~1.4%
+The model showed Math Score features were the strongest predictors of Graduation Outcomes. For example, a 1 unit percentage increase in pct_level_3_by_gender would increase total_grads_pct_of_cohort by ~1.4%
+
+## Prediction Test Results
+
+To spot check my results, I used the model to predict District 1's Total Graduation Percentage of Cohort: 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/43836014/56537342-48746780-652e-11e9-959e-afa4a5086e46.png" title="Model Prediction Results">
+</p>
+
+As a result, the model predicted a Graduation Rate of 78.94% versus an Actual Graduation Rate of 74.13%:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/43836014/56537342-48746780-652e-11e9-959e-afa4a5086e46.png" title="Actual Result">
+</p>
+
+Thus in this case, the model was able to predict the Graduation Rate to within 5% from the actual value. 
