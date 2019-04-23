@@ -137,4 +137,4 @@ As a result, the model predicted a Graduation Rate of 78.94% versus an Actual Gr
   <img src="https://user-images.githubusercontent.com/43836014/56538045-06e4bc00-6530-11e9-8bb0-54b824822839.png" title="Actual Result">
 </p>
 
-Therefore, the model was able to predict the Graduation Rate to within 5% from the actual value. 
+Therefore, the model was able to predict the Graduation Rate to within 5% of the actual value. 
